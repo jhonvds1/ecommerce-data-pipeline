@@ -63,11 +63,15 @@ project/
 
 ---
 
-##  Como executar
-1. Clonar o projeto:  
-```bash
-git clone <link-do-repo>
-cd project
-2. Instalar dependências:
-pip install -r requirements.txt
+## Como executar
 
+1. Clonar o projeto:
+```bash
+git clone https://github.com/jhonvds1/ecommerce-data-pipeline.git
+cd ecommerce-data-pipeline
+```
+
+2. Instalar dependências:
+```
+pip install -r requirements.txt
+```
