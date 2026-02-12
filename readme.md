@@ -12,7 +12,7 @@ Além disso, são criadas **views analíticas** para insights estratégicos, com
 ---
 
 ##  Estrutura do projeto
-
+```
 project/
 │
 ├── data_raw/ # Dados brutos (CSV ou extraídos da API)
@@ -27,7 +27,7 @@ project/
 │ ├──schema.sql # Criação de tabelas e views
 | └──modelagem.png # star schema do DB
 └── README.md # Este arquivo
-
+```
 
 
 ---
