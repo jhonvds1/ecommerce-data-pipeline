@@ -34,7 +34,7 @@ project/
 
 ##  Tecnologias utilizadas
 - **Python** – Pandas, Faker, psycopg2  
-- **PostgreSQL** – Data Warehouse, tabelas dimensões e fatos, views analíticas  
+- **PostgreSQL** – Modelagem de Data Warehouse (tabelas dimensão e fato), criação de views analíticas 
 - **CSV** – fontes de dados simulada  
 
 ---
