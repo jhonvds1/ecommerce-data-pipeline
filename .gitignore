@@ -1,0 +1,6 @@
+data_processed/
+data_raw/
+__pycache__/
+venv/
+.vscode/
+.env
